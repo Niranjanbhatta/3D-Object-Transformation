@@ -49,4 +49,4 @@ The 3D Object Transformation project is a tool designed to manipulate and transf
 5. Open a pull request.
 
 ## Contact
-For any questions or issues, please contact [Your Name](bhattaniranjan130@gmail.com)
+For any questions or issues, please contact Niranjan Bhatta(mailto:bhattaniranjan130@gmail.com)
